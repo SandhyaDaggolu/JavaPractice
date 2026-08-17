@@ -35,7 +35,7 @@ public class CostructorChaining {
 		
 	}
 	
-	// 5 argument constructor
+	
 	CostructorChaining(String model, String brand, double price, int year, String color){
 		
 		// for this data we cannot get the values why bcz we are taking the variables name as same name as local variables name
